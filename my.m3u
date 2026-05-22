@@ -18,3 +18,6 @@ https://stream.mux.com/iJnAbuBEZ02oCQAumaHZgQ8FPLvdlH6RO8mM01cx124zA.m3u8
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Rakkhosh (2026)
 https://stream.mux.com/xxC01IV02K34Yy6crSDqT3LqVCsHAIAFgZlHmj8UO801EA.m3u8
+
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Prince (2026)
+https://stream.mux.com/a01Sr00o2VKJ6PQopbpnectrHwxdEjclJV6YnecReG007Q.m3u8
