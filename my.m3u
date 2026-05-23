@@ -2,14 +2,18 @@
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Bonolota Express (2026)
 https://stream.mux.com/pcXwL5zPa1WaHmL8qz4dnQCNcQWQBxuqEB02Swnmc01Cs.m3u8
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",Antarjal
-http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",Dhurandhar:The Revenge (2026)
-https://stream.mux.com/pBYSX4wFAzAm5GCHZNyr7xKCf35mpqwOQlqY5TN9E7o.m3u8
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Domm (2026)
 https://stream.mux.com/M00xG2uY02o00SEBErq02ApMX86QhAmbbBJR7azraooJUUM.m3u8
+
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Rakkhosh (2026)
+https://stream.mux.com/xxC01IV02K34Yy6crSDqT3LqVCsHAIAFgZlHmj8UO801EA.m3u8
+
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Prince (2026)
+https://stream.mux.com/a01Sr00o2VKJ6PQopbpnectrHwxdEjclJV6YnecReG007Q.m3u8
+
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",Dhurandhar:The Revenge (2026)
+https://stream.mux.com/pBYSX4wFAzAm5GCHZNyr7xKCf35mpqwOQlqY5TN9E7o.m3u8
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Second Case of Seetharaam (2026)
 https://stream.mux.com/qjsQmlpO6n900K5AXkb01hABCd3bUH00Fer9R8mp9ZRXqQ.m3u8
@@ -17,8 +21,8 @@ https://stream.mux.com/qjsQmlpO6n900K5AXkb01hABCd3bUH00Fer9R8mp9ZRXqQ.m3u8
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", O Romeo (2026)
 https://stream.mux.com/iJnAbuBEZ02oCQAumaHZgQ8FPLvdlH6RO8mM01cx124zA.m3u8
 
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Rakkhosh (2026)
-https://stream.mux.com/xxC01IV02K34Yy6crSDqT3LqVCsHAIAFgZlHmj8UO801EA.m3u8
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",Antarjal
+http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Prince (2026)
-https://stream.mux.com/a01Sr00o2VKJ6PQopbpnectrHwxdEjclJV6YnecReG007Q.m3u8
+
+
