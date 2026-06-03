@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", ROCKSTAR (2026)
+https://stream.mux.com/Eel00EvVOR8aliyq3HqOAIdx9Q3mV00A01qniO5NCLOsNM.m3u8
+
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", Bonolota Express (2026)
 https://stream.mux.com/pcXwL5zPa1WaHmL8qz4dnQCNcQWQBxuqEB02Swnmc01Cs.m3u8
 
@@ -23,6 +27,5 @@ https://stream.mux.com/iJnAbuBEZ02oCQAumaHZgQ8FPLvdlH6RO8mM01cx124zA.m3u8
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment",Antarjal
 http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
-
 
 
