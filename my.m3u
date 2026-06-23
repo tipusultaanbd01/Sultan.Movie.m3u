@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", একটি খুনের বিবরণ (2026)
+https://stream.mux.com/xa2CL2iAjwQjVDk6LiobzxDses3gAXQe00e67aqmAMNI.m3u8
 
 #EXTINF:-1 tvg-id="248000" tvg-name=".png" group-title="Infotainment", ROCKSTAR (2026)
 https://stream.mux.com/Eel00EvVOR8aliyq3HqOAIdx9Q3mV00A01qniO5NCLOsNM.m3u8
